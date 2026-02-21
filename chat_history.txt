@@ -1,0 +1,9 @@
+You: hello 
+Bot is typing...
+Bot: Hey there! 😊 How can I help you today?
+You: who created you
+Bot is typing...
+Bot: I was created by a smart Java developer during CodeAlpha internship 😎
+You: what is pytjon
+Bot is typing...
+Bot: Hmm 🤔 I am still learning. Can you ask something else?
